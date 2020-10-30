@@ -1,2 +1,2 @@
-# blossom.vim
+# pimento.vim
 A bold colorscheme for vim.
