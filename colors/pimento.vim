@@ -9,7 +9,7 @@ if exists("syntax_on")
 endif
 
 set background=dark
-set g:colors_name="pimento"
+let g:colors_name="pimento"
 
 " TODO: add GUI values to colorscheme
 

@@ -1,4 +1,4 @@
-let g:airline#themes#blossom#palette = {}
+let g:airline#themes#pimento#palette = {}
 let s:gui00 = '#333B47'
 let s:gui01 = '#F05656'
 let s:gui02 = '#2CC46E'
@@ -36,25 +36,25 @@ let s:cterm0F = 15
 let s:N1   = [ s:gui09, s:gui00, s:cterm02, s:cterm00 ]
 let s:N2   = [ s:gui09, s:gui00, s:cterm02, s:cterm00 ]
 let s:N3   = [ s:gui09, s:gui00, s:cterm02, s:cterm00 ]
-let g:airline#themes#blossom#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:N3)
+let g:airline#themes#pimento#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:N3)
 
 let s:I1   = [ s:gui09, s:gui00, s:cterm09, s:cterm00 ]
 let s:I2   = [ s:gui09, s:gui00, s:cterm09, s:cterm00 ]
 let s:I3   = [ s:gui09, s:gui00, s:cterm09, s:cterm00 ]
-let g:airline#themes#blossom#palette.insert = airline#themes#generate_color_map(s:I1, s:I2, s:I3)
+let g:airline#themes#pimento#palette.insert = airline#themes#generate_color_map(s:I1, s:I2, s:I3)
 
 let s:R1   = [ s:gui09, s:gui00, s:cterm09, s:cterm00 ]
 let s:R2   = [ s:gui09, s:gui00, s:cterm09, s:cterm00 ]
 let s:R3   = [ s:gui09, s:gui00, s:cterm09, s:cterm00 ]
-let g:airline#themes#blossom#palette.replace = airline#themes#generate_color_map(s:R1, s:R2, s:R3)
+let g:airline#themes#pimento#palette.replace = airline#themes#generate_color_map(s:R1, s:R2, s:R3)
 
 let s:V1   = [ s:gui09, s:gui00, s:cterm06, s:cterm00 ]
 let s:V2   = [ s:gui09, s:gui00, s:cterm06, s:cterm00 ]
 let s:V3   = [ s:gui09, s:gui00, s:cterm06, s:cterm00 ]
-let g:airline#themes#blossom#palette.visual = airline#themes#generate_color_map(s:V1, s:V2, s:V3)
+let g:airline#themes#pimento#palette.visual = airline#themes#generate_color_map(s:V1, s:V2, s:V3)
 
 let s:IA1   = [ s:gui09, s:gui00, s:cterm09, s:cterm00 ]
 let s:IA2   = [ s:gui09, s:gui00, s:cterm09, s:cterm00 ]
 let s:IA3   = [ s:gui09, s:gui00, s:cterm09, s:cterm00 ]
-let g:airline#themes#blossom#palette.inactive = airline#themes#generate_color_map(s:IA1, s:IA2, s:IA3)
+let g:airline#themes#pimento#palette.inactive = airline#themes#generate_color_map(s:IA1, s:IA2, s:IA3)
 
