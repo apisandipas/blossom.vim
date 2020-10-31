@@ -1,4 +1,4 @@
-" pimento.vim 
+" pimento.vim
 " Copyright: 2020 by Bryan Paronto <bryan.paronto@pm.me>
 " License: MIT
 " Website: https://github.com/apisandipas/pimento.vim
