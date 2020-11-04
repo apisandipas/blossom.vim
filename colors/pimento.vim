@@ -16,8 +16,8 @@ let g:colors_name="pimento"
 syntax enable
 highlight Function ctermfg=4
 highlight Statement ctermfg=3
-highlight Type ctermfg=6
-highlight Comment ctermfg=6
+highlight Type ctermfg=2
+highlight Comment ctermfg=3
 highlight Boolean ctermfg=2
 highlight PreProc ctermfg=4
 highlight Visual ctermbg=0
